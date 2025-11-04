@@ -3,7 +3,6 @@
 ## This Project
 This project scrapes *Superman* IMDb reviews using **Selenium** and generates concise summaries with **transformer-based NLP models** (T5, BART, PEGASUS, and LED). It includes custom text preprocessing such as contraction expansion and lemmatization, producing a clean, summarized dataset ready for analysis.
 
----
 
 ## Folder Structure
 
@@ -15,7 +14,6 @@ This project scrapes *Superman* IMDb reviews using **Selenium** and generates co
 - **2.1_DataOutput** : Contains summarized review datasets.  
 - **2.2_Notebook** : Jupyter notebooks for generating summaries using transformer models.
 
----
 
 ## Key Features
 
