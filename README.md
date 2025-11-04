@@ -8,13 +8,13 @@ This project scrapes *Superman* IMDb reviews using **Selenium** and generates co
 ## Folder Structure
 
 ### 1_WebScraping
-- **1.1_DataOutput/** : Contains raw and cleaned review datasets (CSV/JSON).  
-- **1.2_Notebook/** : Jupyter notebooks for scraping, cleaning, and exploring the data.
+- **1.1_DataOutput** : Contains raw and cleaned review datasets (CSV).  
+- **1.2_Notebook** : Jupyter notebooks for scraping, cleaning, and exploring the data from the imdb website.
 
 ### 2_Summarizing
-- **2.1_DataOutput/** : Contains summarized review datasets.  
-- **2.2_Notebook/** : Jupyter notebooks for generating summaries using transformer models.
-
+- **2.1_DataOutput** : Contains summarized review datasets.  
+- **2.2_Notebook** : Jupyter notebooks for generating summaries using transformer models.
+- 
 ---
 
 ## Key Features
